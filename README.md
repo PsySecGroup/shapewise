@@ -4,10 +4,9 @@ Welcome to the **Shapewise** era — where logic operations meet spatial relatio
 
 This library provides logic-inspired proximity functions for numeric values within a defined range. Think of it as applying logical gates (`AND`, `OR`, `NOT`, etc.) to numbers based on how "close" they are to various areas of a numeric range.
 
-<center>
-![Shapewise Diagram](docs/shapewise.png)
-</center>
-
+<p align="center">
+  <img src="docs/shapewise.png" alt="Description" width="300"/>
+</p>
 
 ---
 
