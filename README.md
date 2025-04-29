@@ -13,7 +13,7 @@ This library provides logic-inspired proximity functions for numeric values with
 ## 📦 Installation
 
 ```bash
-npm install ?
+npm install https://github.com/PsySecGroup/shapewise.git
 ```
 
 ---
@@ -116,7 +116,7 @@ nor(0, 10, 9.5, 0.2)  // false
 ## 🛠 Example Use
 
 ```js
-import { and, or, xor, not } from '?'
+import { and, or, xor, not } from '"@PsySecGroup/shapewise'
 
 const isCentral = and(10, 20, 15, 2)
 const isOnEdge = or(10, 20, 10.5, 0.05)
